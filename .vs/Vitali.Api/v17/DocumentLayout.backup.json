@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:models\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\dtos\\pacientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:dtos\\pacientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\dtos\\medicodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:dtos\\medicodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\dtos\\historialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:dtos\\historialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\dtos\\citadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:dtos\\citadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\auth\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:auth\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|c:\\users\\mario\\downloads\\proyecto2mariofernandez\\proyecto2mariofernandez\\proyecto2mariofernandez\\clinicavitaliapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F455EEC-B17A-855C-F82A-86B6A4863B35}|Vitali.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacienteDtos.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\PacienteDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\PacienteDtos.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\PacienteDtos.cs",
+              "RelativeToolTip": "DTOs\\PacienteDtos.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:06:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicoDtos.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\MedicoDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\MedicoDtos.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\MedicoDtos.cs",
+              "RelativeToolTip": "DTOs\\MedicoDtos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:06:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialDtos.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\HistorialDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\HistorialDtos.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\HistorialDtos.cs",
+              "RelativeToolTip": "DTOs\\HistorialDtos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:06:06.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:36.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Models\\Cita.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Cita.cs",
+              "RelativeToolTip": "Models\\Cita.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:37.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Historial.cs",
+              "RelativeDocumentMoniker": "Models\\Historial.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Historial.cs",
+              "RelativeToolTip": "Models\\Historial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Medico.cs",
+              "RelativeToolTip": "Models\\Medico.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:48:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitaDtos.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\CitaDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\CitaDtos.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\DTOs\\CitaDtos.cs",
+              "RelativeToolTip": "DTOs\\CitaDtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:06:02.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:05:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "Controllers\\MedicosController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:05:44.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "Controllers\\HistorialController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:04:53.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Controllers\\CitasController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:03:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T20:53:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Auth\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "Auth\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\Proyecto2MarioFernandez\\ClinicaVitaliApi\\Auth\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "Auth\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:49:46.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
